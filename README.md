@@ -13,8 +13,8 @@ pip install opencv-python pillow numpy matplotlib imageio .....
 ```
 - Clone this repository
 ```
-git clone https://github.com/wohaiyo/Pyramid_ALKNet
-cd Pyramid_ALKNet
+git clone https://github.com/wohaiyo/RPCNet
+cd RPCNet
 ```
 - One GPU with 11GB is needed
 
