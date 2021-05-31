@@ -20,7 +20,8 @@ cd Pyramid_ALKNet
 
 ### Dataset
 You need to download the Art-deco dataset, and put the files in the `data` folder.
-We compress the two datasets in the `data` folder.
+
+We compress the datasets in the `data` folder. You can download from [[Baidu Yunpan]](https://pan.baidu.com/s/1oPTPaumUTYNesvJ7zCZCTw) code: fryf.
 
 ### Training
 
